@@ -1,1 +1,2 @@
 Hex: #FF0000
+Red is my favorite color
